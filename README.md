@@ -1,1 +1,1 @@
-# gtms-vareijo
+# gtms-varejo
