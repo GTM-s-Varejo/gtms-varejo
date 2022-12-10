@@ -10,3 +10,15 @@ C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\netcoreapp3.1\Entities.
 C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
 C:\Projetos\EcommerceDDD\EcommerceDDD\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\gabri\OneDrive\Documentos\FACULDADE\4Semestre\4ProjetoPratico\gtms-varejo\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache

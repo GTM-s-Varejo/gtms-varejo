@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbbe57bf-196b-4b61-ae15-48073b8dd1dc": {
+      "ProjectGuid": "bbbe57bf-196b-4b61-ae15-48073b8dd1dc",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 0
+    },
+    "0af8e897-e98d-45f6-92bc-19d379f39707": {
+      "ProjectGuid": "0af8e897-e98d-45f6-92bc-19d379f39707",
+      "DisplayName": "Web_ECommerce",
+      "ColorIndex": 1
+    },
+    "6d196355-f49a-4217-b505-4ea51b74c18b": {
+      "ProjectGuid": "6d196355-f49a-4217-b505-4ea51b74c18b",
+      "DisplayName": "Entities",
+      "ColorIndex": 2
+    },
+    "2c930362-19bd-4b4c-a6c7-6eaed4c02576": {
+      "ProjectGuid": "2c930362-19bd-4b4c-a6c7-6eaed4c02576",
+      "DisplayName": "Domain",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

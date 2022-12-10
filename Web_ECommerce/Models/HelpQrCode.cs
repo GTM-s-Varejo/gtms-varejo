@@ -66,7 +66,7 @@ namespace Web_ECommerce.Models
                 #region Logo 
                 var webRoot = _environment.WebRootPath;
 
-                var logoFatura = string.Concat(webRoot, "/img/", "loja-virtual-1.png");
+                var logoFatura = string.Concat(webRoot, "/img/", "GTMSVarejo.png");
 
                 XImage imagem = XImage.FromFile(logoFatura);
 
@@ -98,7 +98,7 @@ namespace Web_ECommerce.Models
 
                 alturaTituloDetalhesY += 9;
                 detalhes.DrawString("Código Gerado", tituloInfo_1, corFonte, new XRect(25, alturaTituloDetalhesY, page.Width, page.Height));
-                detalhes.DrawString("000000 000000 000000 000000", tituloInfo_1, corFonte, new XRect(150, alturaTituloDetalhesY, page.Width, page.Height));
+                detalhes.DrawString(("000000 000000 000000 000000"+1), tituloInfo_1, corFonte, new XRect(150, alturaTituloDetalhesY, page.Width, page.Height));
 
 
                 alturaTituloDetalhesY += 9;

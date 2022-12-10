@@ -8962,25 +8962,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\valdi\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\gabri\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Web_ECommerce.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documentos\\FACULDADE\\4Semestre\\4ProjetoPratico\\gtms-varejo\\Web_ECommerce\\Web_ECommerce.csproj",
       "projectName": "Web_ECommerce",
-      "projectPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Web_ECommerce.csproj",
-      "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\obj\\",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\FACULDADE\\4Semestre\\4ProjetoPratico\\gtms-varejo\\Web_ECommerce\\Web_ECommerce.csproj",
+      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\FACULDADE\\4Semestre\\4ProjetoPratico\\gtms-varejo\\Web_ECommerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\valdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -8993,12 +8991,13 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj": {
-              "projectPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj"
+            "C:\\Users\\gabri\\OneDrive\\Documentos\\FACULDADE\\4Semestre\\4ProjetoPratico\\gtms-varejo\\ApplicationApp\\ApplicationApp.csproj": {
+              "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\FACULDADE\\4Semestre\\4ProjetoPratico\\gtms-varejo\\ApplicationApp\\ApplicationApp.csproj"
             },
-            "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Projetos\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\gabri\\OneDrive\\Documentos\\FACULDADE\\4Semestre\\4ProjetoPratico\\gtms-varejo\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\FACULDADE\\4Semestre\\4ProjetoPratico\\gtms-varejo\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -9011,6 +9010,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
@@ -9055,7 +9055,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -9067,7 +9068,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

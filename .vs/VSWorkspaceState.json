@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Domain",
+    "\\Domain\\obj",
+    "\\Domain\\obj\\Release",
+    "\\Domain\\obj\\Release\\netcoreapp3.1",
+    "\\Entities",
+    "\\Entities\\Entities",
+    "\\Entities\\Entities\\Enums",
+    "\\Entities\\Notifications",
+    "\\Web_ECommerce"
+  ],
+  "SelectedNode": "\\Web_ECommerce\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
